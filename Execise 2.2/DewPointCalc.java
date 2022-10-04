@@ -1,4 +1,4 @@
-public class Exercise22{
+public class DewPointCalc{
 	
 	public static void main (String[] args) {
 		double temperature = 17;
